@@ -1,0 +1,30 @@
+{
+  "title": "BasicEditingGrid Material Demo",
+  "name": "react-mui-grid-example",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui-x/blob/v5.0.0/docs/src/pages/components/data-grid/editing/BasicEditingGrid.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "4.12.3",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.60",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/styles": "latest",
+    "@mui/x-data-grid": "4.0.1",
+    "@mui/x-data-grid-generator": "4.0.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "uuid": "8.3.2"
+  },
+  "version": "0.0.51",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
